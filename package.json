@@ -1,0 +1,15 @@
+{
+  "name": "logs-processor",
+  "version": "1.0.0",
+  "description": "log processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node logProcess"
+  },
+  "author": "lakshmi",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.13.5"
+  }
+}
